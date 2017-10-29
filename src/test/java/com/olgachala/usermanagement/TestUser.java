@@ -6,7 +6,9 @@ import java.util.Date;
 import junit.framework.TestCase;
 
 public class TestUser extends TestCase {
-	/** actual data for 2017 */
+	/*
+	 * actual data about age for 2017 
+	 */
 	private static final int AGE = 19;
 	private static final int yearOfBith = 1998;
 	private static final int dayOfBirth = 15;
